@@ -5,6 +5,11 @@ add(){
 sub(){
   printf("a-b");
     }
-mul();
-div();
+mul(){
+  printf("a*b");
+    }
+
+div(){
+  printf("a/b");
+    }
 }
