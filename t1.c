@@ -2,7 +2,9 @@ main(){
 add(){
   printf("a+b");
     }
-sub();
+sub(){
+  printf("a-b");
+    }
 mul();
 div();
 }
