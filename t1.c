@@ -1,5 +1,7 @@
 main(){
-add();
+add(){
+  printf("a+b");
+    }
 sub();
 mul();
 div();
